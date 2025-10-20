@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MaksymChava1337/lab1-gulp#readme",
   "devDependencies": {
+    "browser-sync": "^3.0.4",
     "gulp": "^5.0.1",
     "gulp-clean-css": "^4.3.0",
     "gulp-rename": "^2.1.0",
